@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/anusham20/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [3620-network-recovery-pathways](https://github.com/anusham20/Leetcode/tree/master/3620-network-recovery-pathways) |
 ## Hash Table
 |  |
 | ------- |
@@ -41,8 +42,29 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/anusham20/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [1470-shuffle-the-array](https://github.com/anusham20/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/anusham20/Leetcode/tree/master/1929-concatenation-of-array) |
+| [3620-network-recovery-pathways](https://github.com/anusham20/Leetcode/tree/master/3620-network-recovery-pathways) |
 ## Simulation
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/anusham20/Leetcode/tree/master/1929-concatenation-of-array) |
+## Binary Search
+|  |
+| ------- |
+| [3620-network-recovery-pathways](https://github.com/anusham20/Leetcode/tree/master/3620-network-recovery-pathways) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3620-network-recovery-pathways](https://github.com/anusham20/Leetcode/tree/master/3620-network-recovery-pathways) |
+## Topological Sort
+|  |
+| ------- |
+| [3620-network-recovery-pathways](https://github.com/anusham20/Leetcode/tree/master/3620-network-recovery-pathways) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3620-network-recovery-pathways](https://github.com/anusham20/Leetcode/tree/master/3620-network-recovery-pathways) |
+## Shortest Path
+|  |
+| ------- |
+| [3620-network-recovery-pathways](https://github.com/anusham20/Leetcode/tree/master/3620-network-recovery-pathways) |
 <!---LeetCode Topics End-->
