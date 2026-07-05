@@ -38,5 +38,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0485-max-consecutive-ones](https://github.com/anusham20/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [1470-shuffle-the-array](https://github.com/anusham20/Leetcode/tree/master/1470-shuffle-the-array) |
 <!---LeetCode Topics End-->
