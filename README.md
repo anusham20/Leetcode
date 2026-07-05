@@ -11,6 +11,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/anusham20/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/anusham20/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Union-Find
 |  |
 | ------- |
@@ -19,6 +20,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/anusham20/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/anusham20/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/anusham20/Leetcode/tree/master/3620-network-recovery-pathways) |
 ## Hash Table
 |  |
@@ -43,6 +45,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [0485-max-consecutive-ones](https://github.com/anusham20/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [1470-shuffle-the-array](https://github.com/anusham20/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/anusham20/Leetcode/tree/master/1929-concatenation-of-array) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/anusham20/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/anusham20/Leetcode/tree/master/3620-network-recovery-pathways) |
 ## Simulation
 |  |
@@ -63,10 +66,12 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/anusham20/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/anusham20/Leetcode/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
 |  |
 | ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/anusham20/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/anusham20/Leetcode/tree/master/3620-network-recovery-pathways) |
 ## Linked List
 |  |
@@ -76,4 +81,8 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/anusham20/Leetcode/tree/master/0002-add-two-numbers) |
+## Matrix
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/anusham20/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 <!---LeetCode Topics End-->
