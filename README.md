@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/anusham20/Leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/anusham20/Leetcode/tree/master/0009-palindrome-number) |
 ## Array
 |  |
@@ -67,4 +68,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3620-network-recovery-pathways](https://github.com/anusham20/Leetcode/tree/master/3620-network-recovery-pathways) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/anusham20/Leetcode/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/anusham20/Leetcode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
