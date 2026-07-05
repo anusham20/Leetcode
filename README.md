@@ -25,6 +25,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/anusham20/Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anusham20/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0347-top-k-frequent-elements](https://github.com/anusham20/Leetcode/tree/master/0347-top-k-frequent-elements) |
 ## String
@@ -43,6 +44,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/anusham20/Leetcode/tree/master/0001-two-sum) |
 | [0347-top-k-frequent-elements](https://github.com/anusham20/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/anusham20/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [1470-shuffle-the-array](https://github.com/anusham20/Leetcode/tree/master/1470-shuffle-the-array) |
