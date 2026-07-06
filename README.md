@@ -50,6 +50,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [0049-group-anagrams](https://github.com/anusham20/Leetcode/tree/master/0049-group-anagrams) |
 | [0347-top-k-frequent-elements](https://github.com/anusham20/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/anusham20/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [1301-number-of-paths-with-max-score](https://github.com/anusham20/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1470-shuffle-the-array](https://github.com/anusham20/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/anusham20/Leetcode/tree/master/1929-concatenation-of-array) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/anusham20/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -65,6 +66,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 ## Dynamic Programming
 |  |
 | ------- |
+| [1301-number-of-paths-with-max-score](https://github.com/anusham20/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [3620-network-recovery-pathways](https://github.com/anusham20/Leetcode/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
 |  |
@@ -92,6 +94,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 ## Matrix
 |  |
 | ------- |
+| [1301-number-of-paths-with-max-score](https://github.com/anusham20/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/anusham20/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Divide and Conquer
 |  |
