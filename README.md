@@ -35,6 +35,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [0003-longest-substring-without-repeating-characters](https://github.com/anusham20/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/anusham20/Leetcode/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/anusham20/Leetcode/tree/master/0071-simplify-path) |
+| [0394-decode-string](https://github.com/anusham20/Leetcode/tree/master/0394-decode-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -92,6 +93,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/anusham20/Leetcode/tree/master/0002-add-two-numbers) |
+| [0394-decode-string](https://github.com/anusham20/Leetcode/tree/master/0394-decode-string) |
 ## Matrix
 |  |
 | ------- |
@@ -122,4 +124,5 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/anusham20/Leetcode/tree/master/0071-simplify-path) |
+| [0394-decode-string](https://github.com/anusham20/Leetcode/tree/master/0394-decode-string) |
 <!---LeetCode Topics End-->
