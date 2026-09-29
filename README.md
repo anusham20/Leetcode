@@ -34,6 +34,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anusham20/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/anusham20/Leetcode/tree/master/0049-group-anagrams) |
+| [0071-simplify-path](https://github.com/anusham20/Leetcode/tree/master/0071-simplify-path) |
 ## Sliding Window
 |  |
 | ------- |
@@ -117,4 +118,8 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/anusham20/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Stack
+|  |
+| ------- |
+| [0071-simplify-path](https://github.com/anusham20/Leetcode/tree/master/0071-simplify-path) |
 <!---LeetCode Topics End-->
